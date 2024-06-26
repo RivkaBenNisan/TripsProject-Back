@@ -1,0 +1,590 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E282F84-3720-40AA-93B9-7260496C7542}|WebApi\\WebApi.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E282F84-3720-40AA-93B9-7260496C7542}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F45C7C-6920-4422-97FE-40D6481F9F28}|DTO\\DTO.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dto\\classes\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F45C7C-6920-4422-97FE-40D6481F9F28}|DTO\\DTO.csproj|solutionrelative:dto\\classes\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F45C7C-6920-4422-97FE-40D6481F9F28}|DTO\\DTO.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dto\\classes\\invitationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F45C7C-6920-4422-97FE-40D6481F9F28}|DTO\\DTO.csproj|solutionrelative:dto\\classes\\invitationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F45C7C-6920-4422-97FE-40D6481F9F28}|DTO\\DTO.csproj|d:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\server\\trips\\dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26F45C7C-6920-4422-97FE-40D6481F9F28}|DTO\\DTO.csproj|solutionrelative:dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\bll\\functions\\tripfuncbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|solutionrelative:bll\\functions\\tripfuncbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|d:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\server\\trips\\bll\\functions\\userfuncbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|solutionrelative:bll\\functions\\userfuncbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dal\\functions\\userfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\userfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\bll\\functions\\invitationfuncbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|solutionrelative:bll\\functions\\invitationfuncbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dal\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|solutionrelative:dal\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E282F84-3720-40AA-93B9-7260496C7542}|WebApi\\WebApi.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E282F84-3720-40AA-93B9-7260496C7542}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dal\\functions\\invitationfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\invitationfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dal\\interfaces\\itripdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\itripdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dal\\functions\\tripfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\tripfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dal\\models\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|solutionrelative:dal\\models\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\bll\\interfaces\\iuserbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\iuserbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\bll\\interfaces\\iinvitationbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\iinvitationbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Models\\TripContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|solutionrelative:DAL\\Models\\TripContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E282F84-3720-40AA-93B9-7260496C7542}|WebApi\\WebApi.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\webapi\\controllers\\invitationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E282F84-3720-40AA-93B9-7260496C7542}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\invitationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E282F84-3720-40AA-93B9-7260496C7542}|WebApi\\WebApi.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\webapi\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E282F84-3720-40AA-93B9-7260496C7542}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\bll\\interfaces\\itripbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\itripbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\bll\\functions\\typetripfuncbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|solutionrelative:bll\\functions\\typetripfuncbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F45C7C-6920-4422-97FE-40D6481F9F28}|DTO\\DTO.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dto\\classes\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F45C7C-6920-4422-97FE-40D6481F9F28}|DTO\\DTO.csproj|solutionrelative:dto\\classes\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dal\\functions\\typetripfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\typetripfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dal\\interfaces\\iinvitationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iinvitationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F45C7C-6920-4422-97FE-40D6481F9F28}|DTO\\DTO.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dto\\classes\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F45C7C-6920-4422-97FE-40D6481F9F28}|DTO\\DTO.csproj|solutionrelative:dto\\classes\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dal\\interfaces\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\bll\\interfaces\\itypetripbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\itypetripbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dal\\interfaces\\itypetripdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\itypetripdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F45C7C-6920-4422-97FE-40D6481F9F28}|DTO\\DTO.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dto\\classes\\typetripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F45C7C-6920-4422-97FE-40D6481F9F28}|DTO\\DTO.csproj|solutionrelative:dto\\classes\\typetripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E282F84-3720-40AA-93B9-7260496C7542}|WebApi\\WebApi.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\webapi\\controllers\\typetripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E282F84-3720-40AA-93B9-7260496C7542}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\typetripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dal\\models\\typetrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|solutionrelative:dal\\models\\typetrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\bll\\middlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911476D3-8417-4F3E-81E9-F4D0A529D9E2}|BLL\\BLL.csproj|solutionrelative:bll\\middlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F45C7C-6920-4422-97FE-40D6481F9F28}|DTO\\DTO.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F45C7C-6920-4422-97FE-40D6481F9F28}|DTO\\DTO.csproj|solutionrelative:dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF161A1C-13E2-4117-8C57-915270216FD6}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DTO",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DTO\\DTO.csproj",
+              "RelativeDocumentMoniker": "DTO\\DTO.csproj",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DTO\\DTO.csproj",
+              "RelativeToolTip": "DTO\\DTO.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T18:30:59.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvitationDTO.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DTO\\Classes\\InvitationDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Classes\\InvitationDTO.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DTO\\Classes\\InvitationDTO.cs",
+              "RelativeToolTip": "DTO\\Classes\\InvitationDTO.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T23:34:18.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Trip.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Models\\Trip.cs",
+              "RelativeToolTip": "DAL\\Models\\Trip.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvw0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:03:06.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserFuncBll.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Functions\\UserFuncBll.cs",
+              "RelativeDocumentMoniker": "BLL\\Functions\\UserFuncBll.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Functions\\UserFuncBll.cs",
+              "RelativeToolTip": "BLL\\Functions\\UserFuncBll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:43:33.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TripFuncBll.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Functions\\TripFuncBll.cs",
+              "RelativeDocumentMoniker": "BLL\\Functions\\TripFuncBll.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Functions\\TripFuncBll.cs",
+              "RelativeToolTip": "BLL\\Functions\\TripFuncBll.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:09:34.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserFunc.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Functions\\UserFunc.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\UserFunc.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Functions\\UserFunc.cs",
+              "RelativeToolTip": "DAL\\Functions\\UserFunc.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwEQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:40:49.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:05:24.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DTO\\Classes\\Mapper.cs",
+              "RelativeDocumentMoniker": "DTO\\Classes\\Mapper.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DTO\\Classes\\Mapper.cs",
+              "RelativeToolTip": "DTO\\Classes\\Mapper.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:32:35.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:43:55.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TripFunc.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Functions\\TripFunc.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\TripFunc.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Functions\\TripFunc.cs",
+              "RelativeToolTip": "DAL\\Functions\\TripFunc.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAADgvzwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:07:32.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvitationFuncBll.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Functions\\InvitationFuncBll.cs",
+              "RelativeDocumentMoniker": "BLL\\Functions\\InvitationFuncBll.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Functions\\InvitationFuncBll.cs",
+              "RelativeToolTip": "BLL\\Functions\\InvitationFuncBll.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:02:06.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITripDAL.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Interfaces\\ITripDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ITripDAL.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Interfaces\\ITripDAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ITripDAL.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:40:47.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvitationFunc.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Functions\\InvitationFunc.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\InvitationFunc.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Functions\\InvitationFunc.cs",
+              "RelativeToolTip": "DAL\\Functions\\InvitationFunc.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:07:06.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserBll.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Interfaces\\IUserBll.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IUserBll.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Interfaces\\IUserBll.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IUserBll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:53:25.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TripContext.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Models\\TripContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\TripContext.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Models\\TripContext.cs",
+              "RelativeToolTip": "DAL\\Models\\TripContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvw4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:44:18.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IInvitationBll.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Interfaces\\IInvitationBll.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IInvitationBll.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Interfaces\\IInvitationBll.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IInvitationBll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:25:54.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Invitation.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Models\\Invitation.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Invitation.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Models\\Invitation.cs",
+              "RelativeToolTip": "DAL\\Models\\Invitation.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:36:01.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InvitationController.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\WebApi\\Controllers\\InvitationController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\InvitationController.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\WebApi\\Controllers\\InvitationController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\InvitationController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADgvyIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T21:27:13.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:05:12.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TripController.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\WebApi\\Controllers\\TripController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\TripController.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\WebApi\\Controllers\\TripController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\TripController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T20:14:07.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TypeTripFunc.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Functions\\TypeTripFunc.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\TypeTripFunc.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Functions\\TypeTripFunc.cs",
+              "RelativeToolTip": "DAL\\Functions\\TypeTripFunc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:49:45.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TypeTripFuncBll.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Functions\\TypeTripFuncBll.cs",
+              "RelativeDocumentMoniker": "BLL\\Functions\\TypeTripFuncBll.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Functions\\TypeTripFuncBll.cs",
+              "RelativeToolTip": "BLL\\Functions\\TypeTripFuncBll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T19:04:54.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITripBll.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Interfaces\\ITripBll.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\ITripBll.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Interfaces\\ITripBll.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\ITripBll.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T19:55:50.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IInvitationDAL.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Interfaces\\IInvitationDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IInvitationDAL.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Interfaces\\IInvitationDAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IInvitationDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T19:14:39.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TripDTO.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DTO\\Classes\\TripDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Classes\\TripDTO.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DTO\\Classes\\TripDTO.cs",
+              "RelativeToolTip": "DTO\\Classes\\TripDTO.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:21:07.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DTO\\Classes\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Classes\\UserDTO.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DTO\\Classes\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\Classes\\UserDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:21:52.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserDAL.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Interfaces\\IUserDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IUserDAL.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Interfaces\\IUserDAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IUserDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:30:27.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ITypeTripBll.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Interfaces\\ITypeTripBll.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\ITypeTripBll.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\Interfaces\\ITypeTripBll.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\ITypeTripBll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:46:16.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITypeTripDAL.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Interfaces\\ITypeTripDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ITypeTripDAL.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Interfaces\\ITypeTripDAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ITypeTripDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:51:26.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TypeTripController.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\WebApi\\Controllers\\TypeTripController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\TypeTripController.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\WebApi\\Controllers\\TypeTripController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\TypeTripController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:02:08.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TypeTripDTO.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DTO\\Classes\\TypeTripDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Classes\\TypeTripDTO.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DTO\\Classes\\TypeTripDTO.cs",
+              "RelativeToolTip": "DTO\\Classes\\TypeTripDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:21:27.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TypeTrip.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Models\\TypeTrip.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\TypeTrip.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Models\\TypeTrip.cs",
+              "RelativeToolTip": "DAL\\Models\\TypeTrip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T20:44:17.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MiddleWares.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\MiddleWares.cs",
+              "RelativeDocumentMoniker": "BLL\\MiddleWares.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\BLL\\MiddleWares.cs",
+              "RelativeToolTip": "BLL\\MiddleWares.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:37:10.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "DTO\\Class1.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DTO\\Class1.cs",
+              "RelativeToolTip": "DTO\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:29:27.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\\u0027\u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Server\\Trips\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:28:08.52Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
